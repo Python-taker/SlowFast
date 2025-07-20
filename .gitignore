@@ -1,0 +1,21 @@
+# 가상환경
+.venv/
+
+# 작업 제외 폴더
+action_youtube_naudio/
+ajs/
+datasets/
+datasets.zip
+
+# checkpoints
+SlowFast/checkpoints/
+
+# pyc 파일 및 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 기타 임시파일
+.DS_Store
+Thumbs.db
